@@ -26,6 +26,8 @@ The crystal challenge: Crystals appear near intersections on the main roads. To 
 
 ### Credits
 
+I update it lol Troyy_
+
 Game mechanics implemented by [talkol](https://github.com/talkol)
 
 Built with [A-Frame](https://aframe.io) to demonstrate the power of WebVR (who knew JS can do this much!)
